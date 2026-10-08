@@ -1,0 +1,7 @@
+{
+  "name": "LegalEase — AI Legal Document Generator & Reviewer",
+  "description": "Professional AI-powered legal document drafting, contract review, and plain-language clause analysis with jurisdictional awareness and intelligent placeholder tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
